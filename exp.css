@@ -17,14 +17,15 @@ h1 {
     background-color: #6dcfe0;
     padding: 2rem;
     margin-top: 2rem;
+    text-align: justify;
 }
 
 .whichhobby {
     background-color: #6dcfe0;
-    padding-bottom: 2rem;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding: 2rem;
+    padding-top: 10px;
     margin-bottom: 3rem;
+    text-align: justify;
 }
 
 .references {
