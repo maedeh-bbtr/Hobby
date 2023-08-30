@@ -1,0 +1,42 @@
+.theme {
+    background-color: #6034e4;
+}
+
+.img {
+    width: 70%;
+    height: 60%;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    color: rgb(203, 17, 179);
+    background-color: #6bd8eb6d;
+}
+.hobby {
+    background-color: #6dcfe0;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.whichhobby {
+    background-color: #6dcfe0;
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    margin-bottom: 3rem;
+}
+
+.references {
+    background-color: #6bd8eb6d;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.para1 {
+    margin-bottom: 50px;
+}
+
+.para2 {
+    margin-top: 50px;
+}
