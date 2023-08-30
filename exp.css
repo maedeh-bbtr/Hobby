@@ -13,12 +13,7 @@ h1 {
     color: rgb(203, 17, 179);
     background-color: #6bd8eb6d;
 }
-.hobby {
-    background-color: #6dcfe0;
-    padding: 2rem;
-    margin-top: 2rem;
-    text-align: justify;
-}
+
 
 .whichhobby {
     background-color: #6dcfe0;
@@ -35,9 +30,16 @@ h1 {
 }
 
 .para1 {
-    margin-bottom: 50px;
+    margin: 20px 0px;
+}
+
+.hobby {
+    background-color: #6dcfe0;
+    padding: 0rem 2rem;
+    margin: 2rem 0rem;
+    text-align: justify;
 }
 
 .para2 {
-    margin-top: 50px;
+    margin-top: 20px;
 }
